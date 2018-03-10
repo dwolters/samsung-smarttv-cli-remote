@@ -1,0 +1,16 @@
+{
+  "name": "samsung-smarttv-cli-remote",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "new-samsung-remote": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
